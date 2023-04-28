@@ -1,4 +1,4 @@
-print("hello kapil")
+
 print("Welcome In Bank")
 # for show variables
 def show_fun():
